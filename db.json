@@ -1,0 +1,114 @@
+{
+	"users" : [{
+            "id": 1,
+            "nama": "Alfandika Arienta Putra Ganteng",
+            "username": "alfandika14",
+            "umur": 20,
+            "nohp": "081231533527"
+        },
+        {
+            "id": 2,
+            "nama": "Alfian Prasetyo",
+            "username": "alfianprast",
+            "umur": 24,
+            "nohp": "081231000007"
+        },
+        {
+            "id": 3,
+            "nama": "Bayu Brian El Roy",
+            "username": "uyabtt",
+            "umur": 20,
+            "nohp": "081231000008"
+        },
+        {
+            "id": 4,
+            "nama": "Alenovan Wiradika Putra",
+            "username": "alemantab",
+            "umur": 21,
+            "nohp": "081231000009"
+        },
+        {
+            "id": 5,
+            "nama": "Alfandika Arienta Putra",
+            "username": "alfandika14",
+            "umur": 20,
+            "nohp": "081231533527"
+        },
+        {
+            "id": 6,
+            "nama": "Alfian Prasetyo",
+            "username": "alfianprast",
+            "umur": 24,
+            "nohp": "081231000007"
+        },
+        {
+            "id": 7,
+            "nama": "Bayu Brian El Roy",
+            "username": "uyabtt",
+            "umur": 20,
+            "nohp": "081231000008"
+        },
+        {
+            "id": 8,
+            "nama": "Alenovan Wiradika Putra",
+            "username": "alemantab",
+            "umur": 21,
+            "nohp": "081231000009"
+        },
+        {
+            "id": 9,
+            "nama": "Alfandika Arienta Putra",
+            "username": "alfandika14",
+            "umur": 20,
+            "nohp": "081231533527"
+        },
+        {
+            "id": 10,
+            "nama": "Alfian Prasetyo",
+            "username": "alfianprast",
+            "umur": 24,
+            "nohp": "081231000007"
+        },
+        {
+            "id": 11,
+            "nama": "Bayu Brian El Roy",
+            "username": "uyabtt",
+            "umur": 20,
+            "nohp": "081231000008"
+        },
+        {
+            "id": 12,
+            "nama": "Alenovan Wiradika Putra",
+            "username": "alemantab",
+            "umur": 21,
+            "nohp": "081231000009"
+        },
+        {
+            "id": 13,
+            "nama": "Alfandika Arienta Putra",
+            "username": "alfandika14",
+            "umur": 20,
+            "nohp": "081231533527"
+        },
+        {
+            "id": 14,
+            "nama": "Alfian Prasetyo",
+            "username": "alfianprast",
+            "umur": 24,
+            "nohp": "081231000007"
+        },
+        {
+            "id": 15,
+            "nama": "Bayu Brian El Roy",
+            "username": "uyabtt",
+            "umur": 20,
+            "nohp": "081231000008"
+        },
+        {
+            "id": 16,
+            "nama": "Alenovan Wiradika Putra",
+            "username": "alemantab",
+            "umur": 21,
+            "nohp": "081231000009"
+        }]
+}
